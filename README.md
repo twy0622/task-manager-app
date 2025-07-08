@@ -19,3 +19,7 @@ A simple task management app built with Java Spring Boot and React.js
 
 ## Screenshots
 [To be added]
+
+## Acknowledgements
+- Backend development guided by [Sam Lama](https://www.youtube.com/playlist?list=PLxnmNhAZjt7w2Ic_VlmC9FLayW7RLpswq) on YouTube
+- Frontend implementation based on personal learning and documentation
